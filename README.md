@@ -6,3 +6,4 @@ one photo gallery project based on react
 第一步：先检测本地有没安装node；如果npm安装模块速度过慢，可以使用国内的淘宝镜像
 第二部：使用npm -g yo:安装yeoman
 npm install -g generator-react-webpack;安装generator
+[点击看效果](https://jhz-jiayanyan.github.io/gallery-by-react/) 
